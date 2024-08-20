@@ -1,4 +1,4 @@
-local IPAddress, Port = "127.0.0.1", 4096
+local IPAddress, Port = "100.81.68.112", 4096
 local MaxPlayers = 4
 local Nickname = ""
 
